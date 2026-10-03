@@ -7,8 +7,8 @@
 
 
   Integrantes del equipo: 
-  Molina Cota Alonso Yahir
-Axel Noe Núñez Vargas
-Carlos Eduardo Arikado Marquez
-José Christian Sánchez Arguello
-Alonso Alfredo Vasquez Beltran
+- Alonso Yahir Molina Cota
+- Axel Noe Núñez Vargas
+- Carlos Eduardo Arikado Marquez
+- José Christian Sánchez Arguello
+- Alonso Alfredo Vasquez Beltran"
